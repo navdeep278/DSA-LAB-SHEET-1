@@ -13,7 +13,7 @@ You also need matplotlib to visualize the graphs. You can get it by running `pip
 Clone the repository with:
 
 ```bash
-git clone https://github.com/shubh1978/ada-assignment1
+git clone https://github.com/navdeep278/ada-assignment1
 ```
 
 Navigate to the ada-assignment1 directory:
